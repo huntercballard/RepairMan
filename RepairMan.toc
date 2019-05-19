@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 11302
 ## Title: RepairMan
 ## Notes: An addon that proved an option to enable automatic repairs when the user visits the appropriate vendor.
 ## Version: 1.0
