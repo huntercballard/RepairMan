@@ -16,7 +16,6 @@ local function merchantShowHandler()
 end
 
 local function checkboxOnClick(self)
-    checked = self:GetChecked()
     PlaySound(checked and SOUNDKIT.IG_MAINMENU_OPTION_CHECKBOX_ON or SOUNDKIT.IG_MAINMENU_OPTION_CHECKBOX_OFF)
     self:SetChecked(checked)
 end
